@@ -29,20 +29,20 @@
 <br>
 <br>
 
-<detail>
+<details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=emirhandgn&theme=radical" >
 </details>
 <br>
 <br>
 
-<detail>
+<details>
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhandgn&theme=radical" >
 </details>
 
 
-
+[görünmez kod]: http:
 
 
 [instagram]: http://instagram.com/EmirDgn
