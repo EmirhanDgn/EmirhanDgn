@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" align="right" width="300" height="250">
+<img src="https://media.giphy.com/media/zSHERzpaQ9x8k/giphy.gif" align="right" width="300" height="250">
 
 - 👋 Hi, I’m Emirhan DOGAN :blush:     
      ##  Student and Developer!
@@ -14,8 +14,8 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/googlechrome.svg" align="left" />][website]
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/behance.svg" align="left" />][behance]
 
-<br/>
-<br/>
+<br>
+<br>
 
 ### Tech I Use
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="25" height="25" />
@@ -26,12 +26,15 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"  width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="25" height="25" />
 
-
+<br>
+<br>
 
 <detail>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=emirhandgn&theme=radical" >
 </details>
+<br>
+<br>
 
 <detail>
 <summary>:bulb: Most Used Languages</summary>
