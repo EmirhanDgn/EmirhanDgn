@@ -48,6 +48,6 @@
 [instagram]: http://instagram.com/EmirDgn
 [twitter]: http://twitter.com/EmirDgn
 [linkedin]: https://www.linkedin.com/in/emir-do%C4%9Fan-51a02abb
-[website]: http://emirdogan.info
+[website]: http://emirdogan.com.tr
 [behance]: https://www.behance.net/emirhandoan
 
